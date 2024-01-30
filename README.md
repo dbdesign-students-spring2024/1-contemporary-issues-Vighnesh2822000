@@ -1,5 +1,5 @@
 # The MTA's use of Artificial Intelligence in Subway station cameras
-While seeing a growing number of cameras on the subway system, i was curious of finding out abou this. This lead me to the news of the MTA using new softwares with the video data they gather to curb fare evasion. In this document I discuss two articles on this matter and their arguments to this development. M
+While seeing a growing number of cameras on the subway system, i was curious of finding out abou this. This lead me to the news of the MTA using new softwares with the video data they gather to curb fare evasion. In this document I discuss two articles on this matter and their arguments to this development.
 
 
 ## Article 1 
